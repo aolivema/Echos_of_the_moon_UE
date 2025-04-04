@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Alba/Documents/Unreal Projects/cave/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Alba/Documents/Unreal Projects/cave/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/Alba/Documents/Unreal Projects/cave/Content/Assets/groupNumber_0.uasset",
+				"C:/Users/Alba/Documents/Unreal Projects/cave/Content/Assets/groupNumber_1.uasset",
+				"C:/Users/Alba/Documents/Unreal Projects/cave/Content/VRTemplate/Maps/_GENERATED/Alba/Boolean_E8FAADFE.uasset"
+			]
+		}
+	]
+}
